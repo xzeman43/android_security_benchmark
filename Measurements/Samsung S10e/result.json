@@ -11,6 +11,7 @@
         "cpuCoreCount": 8,
         "cpuLocked": false,
         "cpuMaxFreqHz": -1,
+		"batteryCapacity, mAh": 3110,
         "memTotalBytes": 5662814208,
         "sustainedPerformanceModeEnabled": false
     },
